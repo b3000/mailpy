@@ -1,0 +1,6 @@
+#Config mail.py
+server: 'server.de'
+user: 'user'
+pw: 'pw'
+mail: 'user@server.de' # Sender
+txt: 'plain' # Txt-Type 'plain', 'html', 'xml'
